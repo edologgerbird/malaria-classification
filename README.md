@@ -47,21 +47,31 @@ Next, I built a complex model consisting of both dense and convolutional neural 
 
 ## Model Performance
 
-The model conducted 14 epochs during training. Upon completion, here are the results:
+The model conducted 20 epochs during training. Upon completion, here are the results:
 
 ### Accuracy
 
-                Training: 0.9573
+                Training: 0.9563
 
-                Validating: 0.9550
+                Validating: 0.9463
 
-                Testing: 0.9608
+                Testing: 0.9427
+
+
+### AUC Score
+
+                Training: 0.9855
+
+                Validating: 0.9863
+
+                Testing: 0.9843
+
 
 ### Loss
 
-                Training: 0.1350
+                Training: 0.1376
 
-                Validating: 0.1296
+                Validating: 0.2366
 
-                Testing: 0.1296
+                Testing: 0.2442
 
