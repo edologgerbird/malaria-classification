@@ -8,7 +8,8 @@ Repository for the Malaria Classifier Project
 - Utilised the Malaria dataset from the Tensorflow Datasets package.
 - Constructed tensors representing the cell images
 - Trained a Deep Learning model using containing dense and convolutional neural network layers
-- Accuracy on test set: 0.9608
+- Accuracy on test set: 0.9427
+- AUC Score on test set: 0.9843
 
 ## Codes and Resources Used
 
