@@ -29,11 +29,11 @@ Repository for the Malaria Classifier Project
 
 Although the dataset contained 27,558 cell images, I used only 25% of the images for training, 5% for validating and 5% for testing. This is due to hardware and time limitation. 
 
-            Number of training images: 6890
+        Number of training images: 6890
 
-            Number of validating images: 1377
+        Number of validating images: 1377
 
-            Number of testing images: 1378
+        Number of testing images: 1378
 
 Inspecting the images, I noticed that the images are not of the same size. I padded and reshaped the data to standardise the image size for our model. I also rebuilt the tensor to fit the model.
 
@@ -52,20 +52,20 @@ The model conducted 20 epochs during training. Upon completion, here are the res
 
 ### Accuracy
 
-            Training: 0.9563
+        Training: 0.9563
 
-            Validating: 0.9463
+        Validating: 0.9463
 
-            Testing: 0.9427
+        Testing: 0.9427
 
 
 ### AUC Score
 
-            Training: 0.9855
+        Training: 0.9855
 
-            Validating: 0.9863
+        Validating: 0.9863
 
-            Testing: 0.9843
+        Testing: 0.9843
 
 
 ### Loss
