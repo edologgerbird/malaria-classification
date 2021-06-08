@@ -70,9 +70,9 @@ The model conducted 20 epochs during training. Upon completion, here are the res
 
 ### Loss
 
-                Training: 0.1376
+        Training: 0.1376
 
-                Validating: 0.2366
+        Validating: 0.2366
 
-                Testing: 0.2442
+        Testing: 0.2442
 
