@@ -37,6 +37,8 @@ Although the dataset contained 27,558 cell images, I used only 25% of the images
 
 Inspecting the images, I noticed that the images are not of the same size. I padded and reshaped the data to standardise the image size for our model. I also rebuilt the tensor to fit the model.
 
+![Example](https://github.com/edologgerbird/malaria-classification/blob/main/examples.png "Example")
+
 ## Model Building
 
 Firstly, I created a basic model to act as our baseline. The basic model performed poorly, with only 0.556 accuracy on the training set. 
